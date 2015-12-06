@@ -1,0 +1,11 @@
+h1, h4, p{
+	text-align: center;
+}
+
+h1, h4, p, ul, a{
+	color: #FFFFFF;
+}
+
+body{
+	background-color: #000000;
+}
