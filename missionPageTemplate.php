@@ -19,7 +19,7 @@
 <head>
 	<script src="./visjs/vis.js"></script>
   	<link href="./visjs/vis.css" rel="stylesheet" type="text/css" />
-  	<link href="./missionPageTemplate.css" rel="stylesheet" type="text/css" />
+  	<link href="./mainStyleSheet.css" rel="stylesheet" type="text/css" />
 	<title> <?php echo $currentTitle; ?> </title>
 </head>
 <body>
